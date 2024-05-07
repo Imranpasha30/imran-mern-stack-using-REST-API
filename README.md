@@ -13,28 +13,12 @@ This project is a RESTful API built using Node.js and Express.js. It provides a 
 
 ## Preview Images
 
-### Authentication Endpoint
-![Authentication Endpoint](Image URL)
-
 ### User Endpoint
-![User Endpoint](Image URL)
+![Course Dashboard](https://github.com/Imranpasha30/imran-mern-stack-using-REST-API/blob/main/Screenshot%202024-04-23%20121805.png)
 
-### Product Endpoint
-![Product Endpoint](Image URL)
+### ADMIN PANEL
+![Product Endpoint](https://github.com/Imranpasha30/imran-mern-stack-using-REST-API/blob/main/Screenshot%202024-04-23%20121902.png)
 
-### Order Endpoint
-![Order Endpoint](Image URL)
+### COURSE HISTORY
+![Order Endpoint](https://github.com/Imranpasha30/imran-mern-stack-using-REST-API/blob/main/Screenshot%202024-04-23%20121930.png)
 
-Replace "Image URL" with the actual URLs of your images.
-
-## Installation
-Provide instructions on how to install and run your project here.
-
-## Usage
-Guide users on how to use the API after installation. Include examples of request payloads and responses.
-
-## Contributing
-Information for developers on how to contribute to the project.
-
-## License
-Include the license information for your project here.
