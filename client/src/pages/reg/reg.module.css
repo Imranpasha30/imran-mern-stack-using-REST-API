@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh ;
+    background: url('client\public\images') no-repeat;
+    background-size: cover;
+}
+.section-registration{
+    
+    width: 500px;
+    height: 500px;
+    background: rgba(225, 225, 225, 0.5); /* Purple with 50% transparency */
+    backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+    padding: 20px; 
+    border-radius: 10px;
+    color: white;}
+.section-registration h1{
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(214, 111, 111);
+}
+.section-registration .inputbox {
+    display: flex;
+    justify-content: center;
+}
+.section-registration .inputbox input{
+    width: 250px;
+    height: 100%;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    background: transparent;
+    border: 2px solid rgba(red, green, blue, 2);
+    outline: none;
+    color: white;
+    border-radius: 6px;
+}
+.section-registration  p{
+    padding-left: 80px;
+    color: black;
+}
+.section-registration .btn{
+    transform: translateX(180px);
+    color: black;
+    background: rgb(183, 183, 245);
+}
+.section-registration .inputbox input::placeholder{
+    color: black;
+    font-weight: bold;
+}

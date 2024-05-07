@@ -1,0 +1,15 @@
+.Add-user{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  
+}
+.conadduser{
+   
+width:540px;
+height: 540px;
+  background: url('D:\imran\client\public\images\register.png') no-repeat; /* Purple with 50% transparency */
+  backdrop-filter: blur(10px); 
+  }

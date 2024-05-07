@@ -1,0 +1,118 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.registration-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.con{
+  width: 500px;
+height: 500px;
+  background: url('D:\imran\client\public\images\765105-technology-background-images-1920x1080-free-download.jpg') no-repeat;
+}
+.con1{
+  width: 500px;
+  height: 250px;
+  background: url('D:\imran\client\public\images\765105-technology-background-images-1920x1080-free-download.jpg') no-repeat;
+}
+.section-registration{
+
+width: 500px;
+height: 500px;
+background: rgba(225, 225, 225, 0.5); /* Purple with 50% transparency */
+backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+padding: 20px; 
+border-radius: 10px;
+color: white;}
+
+.section-registration1{
+
+  width: 500px;
+  height: 250px;
+  background: rgba(225, 225, 225, 0.5); /* Purple with 50% transparency */
+  backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+  padding: 20px; 
+  border-radius: 10px;
+  color: white;}
+
+
+.section-registration h1{
+font-size: 36px;
+text-align: center;
+margin-bottom: 20px;
+color: rgb(214, 111, 111);
+}
+.section-registration1 h1{
+font-size: 36px;
+text-align: center;
+margin-bottom: 20px;
+color: rgb(214, 111, 111);
+}
+.section-registration .inputbox {
+display: flex;
+justify-content: center;
+}
+.section-registration1 .inputbox {
+display: flex;
+justify-content: center;
+}
+.section-registration .inputbox input{
+width: 250px;
+height: 100%;
+padding-top: 5px;
+margin-bottom: 10px;
+background: transparent;
+border: 2px solid rgba(red, green, blue, 2);
+outline: none;
+color: black;
+font-weight: bold;
+border-radius: 6px;
+}
+.section-registration1 .inputbox input{
+width: 250px;
+height: 100%;
+padding-top: 5px;
+margin-bottom: 10px;
+background: transparent;
+border: 2px solid rgba(red, green, blue, 2);
+outline: none;
+color: black;
+font-weight: bold;
+border-radius: 6px;
+}
+.section-registration  p{
+padding-left: 80px;
+color: black;
+}
+.section-registration1  p{
+padding-left: 80px;
+color: black;
+}
+.section-registration .btn{
+transform: translateX(180px);
+color: black;
+width: 110px;
+background: rgb(183, 183, 245);
+border-radius: 5px;
+}
+.section-registration1 .btn{
+transform: translateX(200px);
+width: 100px;
+border-radius: 5px;
+color: black;
+background: rgb(183, 183, 245);
+}
+.section-registration .inputbox input::placeholder{
+color: black;
+font-weight: bold;
+}
+.section-registration1 .inputbox input::placeholder{
+color: black;
+font-weight: bold;
+}
